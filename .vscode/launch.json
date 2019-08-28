@@ -11,11 +11,11 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "pythonPath": "/usr/local/bin/python3",
-            "args": [
-                "param_one",
-                "param_twe"
-            ]
+            "pythonPath": "/usr/local/bin/python3"
+            // "args": [
+            //     "param_one",
+            //     "param_twe"
+            // ]
         }
     ]
 }
